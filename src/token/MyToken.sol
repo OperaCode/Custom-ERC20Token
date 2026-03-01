@@ -61,6 +61,8 @@ function mint(address _owner, uint256 _amount) external {
 
 
 
+
+
 function transfer (address _to, uint256 _value) external returns (bool success){
 
     // sanity checks 
